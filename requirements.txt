@@ -1,0 +1,4 @@
+requests
+fastapi == 0.101.0 
+uvicorn
+uvicorn example_API:app --reload
